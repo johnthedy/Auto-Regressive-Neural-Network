@@ -1,7 +1,7 @@
 # Auto-Regressive-Neural-Network
 % Description
 
-% This script explain how Proposed ARNN (Auto-Regressive Neural Network) 
+% This MATLAB script explain how Proposed ARNN (Auto-Regressive Neural Network) 
 % works. This script model a 6 story MDOF using state space method where
 % first segment (Start) consist of input variable for mass, damping, and
 % stiffness for each story (base to level 5).
