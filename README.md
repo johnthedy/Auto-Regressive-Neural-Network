@@ -6,8 +6,7 @@
 % first segment (Start) consist of input variable for mass, damping, and
 % stiffness for each story (base to level 5).
 
-% Second segment (Structure characteristic) is construction of state space
-% matrix
+% Second segment (Structure characteristic) is construction of state space matrix
 
 %Third segment (Linear time history analysis using state space formulation)
 %shows an artificial ground motion generation using white gaussian noise
